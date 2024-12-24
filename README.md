@@ -23,7 +23,6 @@ pip install yt_dlp
   *  If you have linux, probably you don't need my help, anyhow I want to help you <3
 * To run the application you have 2 possibilities:
   * Go in src directory and then go in dist directory and here press main.exe
-  * Go in src directory and press main.py
 
 # Screenshot
 ![Image of application running](https://github.com/simoare732/youtube-downloader/blob/main/images/image2.png?raw=true)
